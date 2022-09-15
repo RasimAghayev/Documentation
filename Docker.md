@@ -1,7 +1,7 @@
 docker
 
 <details>
-   <summary> # run</summary>
+   <summary>run</summary>
 <p>
   
 -i
